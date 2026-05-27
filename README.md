@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 
 ### 2. 配置登录信息  
-在 `login.py` 中填写你的校园网账号、密码（或通过环境变量/配置文件注入，视代码逻辑调整）。  
+在 `config.example.xlsx` 中填写你的校园网账号、密码,并将该文件改名为config.xlsx。  
 
 
 ### 3. 运行脚本  
